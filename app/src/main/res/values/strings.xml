@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">ChatApp</string>
+    <string name="app_name">Chat App</string>
+    <string name="whatsapp_logo">WhatsApp logo</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="sign_up_with_phone">Sign Up with Phone</string>
+    <string name="set_up_your_account">Set up your Account</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="email_or_phone">Email or Phone</string>
+    <string name="log_in">Log in</string>
+    <string name="click_to_sign_up">Click to Sign Up</string>
+    <string name="click_to_log_in">Click to Log In</string>
 </resources>
