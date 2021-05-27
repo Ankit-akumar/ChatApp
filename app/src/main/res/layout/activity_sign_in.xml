@@ -22,13 +22,13 @@
             android:textSize="@dimen/heading_text_size" />
 
         <EditText
-            android:id="@+id/email_or_phone"
+            android:id="@+id/et_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/vertical_margin"
             android:backgroundTint="@color/color_primary"
-            android:hint="@string/email_or_phone"
-            android:inputType="textCapWords" />
+            android:hint="@string/email"
+            android:inputType="textEmailAddress" />
 
         <EditText
             android:id="@+id/et_password"
@@ -84,6 +84,14 @@
 
         </LinearLayout>
 
+        <TextView
+            android:id="@+id/tv_sign_in_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/vertical_margin"
+            android:text="@string/sign_in_with_phone"
+            android:textColor="@color/color_primary"
+            android:textSize="@dimen/sub_heading_text_size" />
 
     </LinearLayout>
 
